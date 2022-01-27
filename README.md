@@ -4,7 +4,7 @@ Siga las instrucciones.
 
 ## Instalacion
 
-Use npm para instanlar los modulos
+Use npm para instalar los modulos
 
 ```bash
 npm install
@@ -18,5 +18,11 @@ Inicie el servidor
 npm run serve
 ```
 
+## Heroku
+
+Ingrese a el siguiente Link
+[MercadoLiebre Felipe](https://dashboard.heroku.com/apps/mercado-liebre-felipe-agudelo)
+
 ## Navegador
+
 Ingrese a localhost:3000
