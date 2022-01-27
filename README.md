@@ -19,4 +19,4 @@ npm run serve
 ```
 
 ## Navegador
-Ingrese a localhost
+Ingrese a localhost:3000
