@@ -21,7 +21,7 @@ npm run serve
 ## Heroku
 
 Ingrese a el siguiente Link
-[MercadoLiebre Felipe](https://dashboard.heroku.com/apps/mercado-liebre-felipe-agudelo)
+[MercadoLiebre Felipe](https://mercado-liebre-felipe-agudelo.herokuapp.com/)
 
 ## Navegador
 
